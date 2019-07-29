@@ -1,1 +1,2 @@
-# not the same
+def function():
+    return 'HI!'
